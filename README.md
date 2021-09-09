@@ -29,6 +29,8 @@
   <p align="center">
     Am image searching application that displays top 10 high quality photos based on your image search.
     <br />
+    <a href="https://uvrays123.github.io/Images-searching-application/">View Demo</a>
+    <br />
   </p>
 </p>
 
