@@ -29,7 +29,7 @@
   <p align="center">
     Am image searching application that displays top 10 high quality photos based on your image search.
     <br />
-    <a href="https://uvrays123.github.io/Images-searching-application/">View Demo</a>
+    <a href="https://uvrays123.github.io/unsplash-images-clone/">View Demo</a>
     <br />
   </p>
 </p>
@@ -81,7 +81,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/uvrays123/Images-searching-application
+   git clone https://github.com/uvrays123/unsplash-images-clone
    ```
 2. Install the NPM packages
    ```
@@ -97,7 +97,7 @@ To get a local copy up and running follow these simple steps.
 
 Chris Serrao - https://www.linkedin.com/in/chris-serrao-64360a199/ - cserrao@umass.edu
 
-Project Link: [https://github.com/uvrays123/Images-searching-application](https://github.com/uvrays123/Images-searching-application)
+Project Link: [https://github.com/uvrays123/Images-searching-application](https://github.com/uvrays123/unsplash-images-clone)
 
 
 
